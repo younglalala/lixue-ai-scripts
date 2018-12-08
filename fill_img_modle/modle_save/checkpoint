@@ -1,0 +1,2 @@
+model_checkpoint_path: "fill_num_img3.dpk"
+all_model_checkpoint_paths: "fill_num_img3.dpk"
